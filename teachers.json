@@ -3,7 +3,9 @@
     "teacherId": "t-001",
     "name": "Ваше имя",
     "githubUsername": "Misha262",
-    "teacherRepo": "https://github.com/Misha262/uni-papers",
-    "papersIndexUrl": "https://raw.githubusercontent.com/Misha262/uni-papers/main/papers/index.json"
+    "teacherRepo": "https://github.com/Misha262/<ВАШ_РЕПО>",
+    "papersIndexUrl": "https://raw.githubusercontent.com/Misha262/<ВАШ_РЕПО>/main/papers/index.json",
+    "department": "Кафедра",
+    "email": "you@example.com"
   }
 ]
