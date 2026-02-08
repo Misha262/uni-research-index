@@ -1,10 +1,10 @@
 [
   {
     "teacherId": "t-001",
-    "name": "Ваше имя",
+    "name": "Misha262",
     "githubUsername": "Misha262",
-    "teacherRepo": "https://github.com/Misha262/<ВАШ_РЕПО>",
-    "papersIndexUrl": "https://raw.githubusercontent.com/Misha262/<ВАШ_РЕПО>/main/papers/index.json",
+    "teacherRepo": "https://github.com/Misha262/uni-research-index",
+    "papersIndexUrl": "https://raw.githubusercontent.com/Misha262/uni-research-index/main/papers/index.json",
     "department": "Кафедра",
     "email": "you@example.com"
   }
