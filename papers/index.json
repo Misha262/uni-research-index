@@ -1,22 +1,7 @@
 {
   "teacherId": "t-001",
-  "updatedAt": "2026-02-09T08:14:18.849Z",
+  "updatedAt": "2026-02-09T08:19:52.132Z",
   "papers": [
-    {
-      "paperId": "p-2026-52e4d8ef",
-      "title": "ÐÐ°Ð²Ð°Ð²ÑÑÐ²Ð°",
-      "authors": [
-        "Ð¢ÑÑÐ¾Ð² ÐÐ¸Ð·Ð°Ð¹Ð»Ð¾"
-      ],
-      "year": 2000,
-      "keywords": [
-        "ITBiznes"
-      ],
-      "abstract": "ÑÐºÐ°Ð¿ÐºÐ°Ðº ÐºÐ¿ÐºÐ¿Ðº ÐºÐ¿ÐºÐ¿",
-      "documentUrl": "https://raw.githubusercontent.com/Misha262/uni-research-index/main/papers/p-2026-52e4d8ef/ACSS1_2025_P_01.pdf",
-      "metaUrl": "https://raw.githubusercontent.com/Misha262/uni-research-index/main/papers/p-2026-52e4d8ef/meta.json",
-      "status": "published"
-    },
     {
       "paperId": "p-2026-235773b2",
       "title": "5645645м6 шн",
