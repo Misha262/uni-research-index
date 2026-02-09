@@ -1,10 +1,10 @@
 {
   "teacherId": "t-001",
-  "updatedAt": "2026-02-09T08:19:52.132Z",
+  "updatedAt": "2026-02-09T08:20:33.961Z",
   "papers": [
     {
       "paperId": "p-2026-235773b2",
-      "title": "5645645м6 шн",
+      "title": "5645645Ð¼6 ÑÐ½",
       "authors": [
         "Misha262",
         "Titov Mykhailo"
@@ -13,9 +13,25 @@
       "keywords": [
         "ITBiznes"
       ],
-      "abstract": "45е654565е5е",
+      "abstract": "45Ðµ654565Ðµ5Ðµ",
       "documentUrl": "https://raw.githubusercontent.com/Misha262/uni-research-index/main/papers/p-2026-235773b2/Cvicenie_5.pdf",
       "metaUrl": "https://raw.githubusercontent.com/Misha262/uni-research-index/main/papers/p-2026-235773b2/meta.json",
+      "status": "published"
+    },
+    {
+      "paperId": "p-2026-f9814748",
+      "title": "This is rfgrf",
+      "authors": [
+        "Misha262",
+        "Titov Mykhailo"
+      ],
+      "year": 2000,
+      "keywords": [
+        "ITBiznes"
+      ],
+      "abstract": "rgegr rgrgr ertrt rt er",
+      "documentUrl": "https://raw.githubusercontent.com/Misha262/uni-research-index/main/papers/p-2026-f9814748/Cvicenie_6.pdf",
+      "metaUrl": "https://raw.githubusercontent.com/Misha262/uni-research-index/main/papers/p-2026-f9814748/meta.json",
       "status": "published"
     }
   ]
