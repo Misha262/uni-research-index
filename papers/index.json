@@ -1,6 +1,6 @@
 {
   "teacherId": "t-001",
-  "updatedAt": "2026-02-09T08:24:51.441Z",
+  "updatedAt": "2026-02-09T08:28:18.747Z",
   "papers": [
     {
       "paperId": "p-2026-f9814748",
@@ -16,6 +16,22 @@
       "abstract": "rgegr rgrgr ertrt rt er",
       "documentUrl": "https://raw.githubusercontent.com/Misha262/uni-research-index/main/papers/p-2026-f9814748/Cvicenie_6.pdf",
       "metaUrl": "https://raw.githubusercontent.com/Misha262/uni-research-index/main/papers/p-2026-f9814748/meta.json",
+      "status": "published"
+    },
+    {
+      "paperId": "p-2026-51add5a3",
+      "title": "капкакаук",
+      "authors": [
+        "Misha262",
+        "Тітов Мизайло"
+      ],
+      "year": 2001,
+      "keywords": [
+        "ITBiznes"
+      ],
+      "abstract": "уауцаку аакак кукік  ккк",
+      "documentUrl": "https://raw.githubusercontent.com/Misha262/uni-research-index/main/papers/p-2026-51add5a3/Furierove riady.docx",
+      "metaUrl": "https://raw.githubusercontent.com/Misha262/uni-research-index/main/papers/p-2026-51add5a3/meta.json",
       "status": "published"
     }
   ]
